@@ -1,0 +1,7 @@
+DEPENDENCIES
+  ubuntu_rsyslog
+    path: .
+    metadata: true
+
+GRAPH
+  ubuntu_rsyslog (0.1.4)
