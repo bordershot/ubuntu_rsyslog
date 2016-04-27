@@ -1,5 +1,5 @@
 # ubuntu_rsyslog
 
-TODO: Enter the cookbook description here.
+Points of Interest: Add configuration file to rsyslog.d, restart rsyslog service.
 
 # ubuntu_rsyslog
